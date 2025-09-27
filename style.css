@@ -1,0 +1,27 @@
+
+body {
+ background-color: #4aa6ca;
+ line-height: 1.5; 
+ padding: 24px;
+}
+img{
+    margin: 0;
+    padding: 0;
+    border-style: solid; 
+    border-width: medium;
+}
+p { font-family: monospace, sans-serif, Times; font-size: 16pt }
+li { font-family: monospace, sans-serif, Times; font-size: 16pt }
+h2 { font-family: sans-serif, monospace, Times; font-size: 60pt; }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  border-style: solid; 
+  border-width: medium;
+}
+form {
+ border: 2px solid #333; /* 2px solid border with a dark grey color */
+ padding: 20px; /* Add some padding inside the border */
+ margin: 20px; /* Add some margin outside the border */
+}
